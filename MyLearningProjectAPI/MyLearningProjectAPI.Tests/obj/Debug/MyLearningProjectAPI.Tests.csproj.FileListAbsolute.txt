@@ -1,0 +1,17 @@
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\MyLearningProjectAPI.Tests.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\MyLearningProjectAPI.Tests.pdb
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\MyLearningProjectAPI.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\System.Web.Http.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\Autofac.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\MyLearningProjectAPI.pdb
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\System.Web.Http.xml
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\Autofac.xml
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\obj\Debug\MyLearningProjectAPI.Tests.csprojResolveAssemblyReference.cache
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\obj\Debug\MyLearningProjectAPI.Tests.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectAPI.Tests\obj\Debug\MyLearningProjectAPI.Tests.pdb

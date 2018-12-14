@@ -1,0 +1,10 @@
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\bin\Debug\MyLearningProject.Model.dll.config
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\bin\Debug\MyLearningProject.Model.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\bin\Debug\MyLearningProject.Model.pdb
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\bin\Debug\EntityFramework.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\bin\Debug\EntityFramework.xml
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\obj\Debug\MyLearningProject.Model.csprojResolveAssemblyReference.cache
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\obj\Debug\MyLearningProject.Model.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProject.Model\obj\Debug\MyLearningProject.Model.pdb

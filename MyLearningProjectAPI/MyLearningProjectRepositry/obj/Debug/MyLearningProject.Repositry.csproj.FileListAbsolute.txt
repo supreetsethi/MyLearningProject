@@ -1,0 +1,12 @@
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\obj\Debug\MyLearningProject.Repositry.csprojResolveAssemblyReference.cache
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\bin\Debug\MyLearningProjectRepositry.dll.config
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\bin\Debug\MyLearningProjectRepositry.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\bin\Debug\MyLearningProjectRepositry.pdb
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\bin\Debug\EntityFramework.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\bin\Debug\MyLearningProject.Model.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\bin\Debug\MyLearningProject.Model.pdb
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\bin\Debug\EntityFramework.xml
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\obj\Debug\MyLearningProjectRepositry.dll
+D:\Project\MyLearningProject\MyLearningProjectAPI\MyLearningProjectRepositry\obj\Debug\MyLearningProjectRepositry.pdb
